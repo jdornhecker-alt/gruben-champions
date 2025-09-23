@@ -5,7 +5,7 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 | 🥇 Platz | 👤 Spieler        | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
 |---------|-------------------|----------|-------------------|----------------   --|
 | 1.      | BahrlyBahr        | 80       | 🔥 Zauberer 288    | Hydra              |
-| 2.      | xxxx              | xx       | 🔥 Zauberin        | xxx                |
+| 2.      | LadyKill          | 56       | 🪓 Geistgeborener  | Rake                |
 | 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx                |
 | 3.      | Nxxx              | xx       | 🪓 Jäger           | xxx                |
 | 3.      | Nxxx              | xx       | 🪓 Geistgeborener  | xxx                |
