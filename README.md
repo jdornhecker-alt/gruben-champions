@@ -1,39 +1,133 @@
-<img width="800" height="203" alt="BCO bb9ac62e-9e9d-40fe-a91f-07a30519494b-Photoroom" src="https://github.com/user-attachments/assets/2ebc57d3-32a0-4851-88c8-cd3951fcb557" />
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Diablo 4 Gruben-Rangliste – POWERLOL2325</title>
+  <style>
+    body {
+      background-color: #4B0000; /* Blutrot */
+      color: #f0f0f0;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
 
-Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
-## 🏆 Gruben-Champions – Saison 1
+    h2, h3 {
+      color: #FFD700; /* Gold für Titel */
+    }
 
-| 🥇 Platz | 👤 Spieler        | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
-|---------|-------------------|----------|-------------------|----------------   --|
-| 1.      | BahrlyBahr        | 80       | 🔥 Zauberer 288    | Hydra              |
-| 2.      | LadyKill          | 56       | 🪓 Geistgeborener  | Rake                |
-| 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx                |
-| 3.      | Nxxx              | xx       | 🪓 Jäger           | xxx                |
-| 3.      | Nxxx              | xx       | 🪓 Geistgeborener  | xxx                |
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      background-color: rgba(0, 0, 0, 0.6);
+      color: #fff;
+    }
 
-📅 *Letztes Update: 22.09.2025*
+    th, td {
+      border: 1px solid #990000;
+      padding: 10px;
+      text-align: center;
+    }
 
----
+    th {
+      background-color: #660000;
+    }
 
-## 📜 Regeln für die Rangliste
-- Nur **Solo-Runs** zählen
-- Screenshot oder Clip als Beweis
-- Einsendung über Discord oder Chat-Command `!grube`
+    tr:nth-child(even) {
+      background-color: rgba(75, 0, 0, 0.5);
+    }
 
----
+    a {
+      color: #FFD700;
+      text-decoration: underline;
+    }
 
-## 📥 Grube einreichen 
+    blockquote {
+      font-style: italic;
+      color: #ccc;
+      border-left: 4px solid #990000;
+      padding-left: 10px;
+    }
 
-Einreichen funktioniert über Discord. Und ein Screenshot muss hinzugefügt werden !!!
+    img {
+      display: block;
+      margin: 0 auto 20px auto;
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
 
-👉 [Hier klicken für das Einreich-Formular](https://discord.com/channels/719438860278562886/1419990617873715220)  
+  <img src="https://github.com/user-attachments/assets/2ebc57d3-32a0-4851-88c8-cd3951fcb557" alt="POWERLOL2325 Banner" width="800" height="203" />
 
----
+  <h2>🏆 Gruben-Champions – Saison 1</h2>
 
-## 🧠 POWERLOL2325 sagt:
-> „Wer tiefer läuft, bekommt mehr Ehre. Wer lügt, bekommt einen Meme-Ban.“ 😎
+  <table>
+    <tr>
+      <th>🥇 Platz</th>
+      <th>👤 Spieler</th>
+      <th>🕳️ Grube</th>
+      <th>🧙 Klasse</th>
+      <th>⚔️ Build</th>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>BahrlyBahr</td>
+      <td>80</td>
+      <td>🔥 Zauberer 288</td>
+      <td>Hydra</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>LadyKill</td>
+      <td>56</td>
+      <td>🪓 Geistgeborener</td>
+      <td>Rake</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Nxxx</td>
+      <td>xx</td>
+      <td>💀 Totenbeschwörer</td>
+      <td>xxx</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Nxxx</td>
+      <td>xx</td>
+      <td>🪓 Jäger</td>
+      <td>xxx</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Nxxx</td>
+      <td>xx</td>
+      <td>🪓 Geistgeborener</td>
+      <td>xxx</td>
+    </tr>
+  </table>
 
----
+  <p>📅 <em>Letztes Update: 22.09.2025</em></p>
 
+  <h3>📜 Regeln für die Rangliste</h3>
+  <ul>
+    <li>Nur <strong>Solo-Runs</strong> zählen</li>
+    <li>Screenshot oder Clip als Beweis</li>
+    <li>Einsendung über Discord oder Chat-Command <code>!grube</code></li>
+  </ul>
+
+  <h3>📥 Grube einreichen</h3>
+  <p>Einreichen funktioniert über Discord. Und ein Screenshot muss hinzugefügt werden !!!</p>
+  <p>👉 <a href="https://discord.com/channels/719438860278562886/1419990617873715220" target="_blank">Hier klicken für das Einreich-Formular</a></p>
+
+  <h3>🧠 POWERLOL2325 sagt:</h3>
+  <blockquote>
+    „Wer tiefer läuft, bekommt mehr Ehre. Wer lügt, bekommt einen Meme-Ban.“ 😎
+  </blockquote>
+
+</body>
+</html>
 
 
