@@ -1,12 +1,15 @@
-# gruben-champions
+# Gruben-Champions
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ## 🏆 Gruben-Champions – Saison 1
 
 | 🥇 Platz | 👤 Spieler        | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
 |---------|-------------------|----------|-------------------|------------------|
 | 1.      | **POWERLOL2325**  | 125      | 🪓 Barbar          | WW + Shout       |
-| 2.      | DiabloFan87       | 122      | 🔥 Zauberin        | Firewall         |
-| 3.      | NecroKing         | 120      | 💀 Totenbeschwörer | Bone Spear       |
+| 2.      | xxxx              | xx       | 🔥 Zauberin        | xxx              |
+| 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx              |
+| 3.      | Nxxx              | xx       | 💀 Jäger           | xxx              |
+| 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx              |
+| 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx              |
 
 📅 *Letztes Update: 22.09.2025*
 
