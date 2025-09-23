@@ -5,6 +5,7 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 | 🥇 Platz | 👤 Spieler        | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
 |---------|-------------------|----------|-------------------|------------------|
 | 1.      | **POWERLOL2325**  | 125      | 🪓 Barbar          | WW + Shout       |
+
 | 2.      | DiabloFan87       | 122      | 🔥 Zauberin        | Firewall         |
 | 3.      | NecroKing         | 120      | 💀 Totenbeschwörer | Bone Spear       |
 
