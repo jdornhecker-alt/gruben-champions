@@ -31,7 +31,8 @@ th, td {
     }
 
     th {
-      background-color: #660000;
+      background-color: #660000; 
+      color: #E8F502;
     }
 
     tr:nth-child(even) {
