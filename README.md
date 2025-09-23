@@ -1,4 +1,4 @@
-# Gruben-Champions
+
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ## 🏆 Gruben-Champions – Saison 1
 
