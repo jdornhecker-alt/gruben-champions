@@ -32,8 +32,5 @@ Oder nutze im Chat: `!grube 125 Zauberin Firewall`
 
 ---
 
-## 🔗 Builds & Guides
-- [WW + Shout Build](https://d4builds.gg/barbar/ww-shout-meta)
-- [Firewall Build](https://d4builds.gg/sorceress/firewall)
-- [Bone Spear Build](https://d4builds.gg/necro/bone-spear)
+
 
