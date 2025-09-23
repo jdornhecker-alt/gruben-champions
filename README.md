@@ -1,19 +1,4 @@
-body {
-  background-color: #4B0000; /* dunkles Blutrot */
-  color: #f0f0f0;
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 20px;
-  border-radius: 10px;
-  max-width: 1200px;
-  margin: auto;
-}
-<img width="1280" height="203" alt="BCO bb9ac62e-9e9d-40fe-a91f-07a30519494b-Photoroom" src="https://github.com/user-attachments/assets/2ebc57d3-32a0-4851-88c8-cd3951fcb557" />
+<img body bgcolor="lightblue" width="800" height="203" alt="BCO bb9ac62e-9e9d-40fe-a91f-07a30519494b-Photoroom" src="https://github.com/user-attachments/assets/2ebc57d3-32a0-4851-88c8-cd3951fcb557" />
 
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ## 🏆 Gruben-Champions – Saison 1
