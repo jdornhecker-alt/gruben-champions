@@ -20,10 +20,11 @@
       border-collapse: collapse;
       margin-top: 20px;
       background-color: rgba(0, 0, 0, 0.6);
-      color: #000;
-    }
-
-    th, td {
+      background-color: #240000; 
+      color: #000000;
+      }
+      
+th, td {
       border: 1px solid #990000;
       padding: 10px;
       text-align: center;
