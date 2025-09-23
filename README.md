@@ -40,7 +40,7 @@ th, td {
     }
 
     a {
-      color: #FFD700;
+      color: #3FFF00;
       text-decoration: underline;
     }
 
