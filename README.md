@@ -4,7 +4,7 @@
   <title>Diablo 4 Gruben-Rangliste – POWERLOL2325</title>
   <style>
     body {
-      background-color: #730314; /* Blutrot */
+      background-color: #330A02; /* Blutrot */
       color: #E8F502;
       font-family: 'Segoe UI', sans-serif;
       margin: 0;
