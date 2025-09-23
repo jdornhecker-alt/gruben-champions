@@ -6,7 +6,7 @@
   <style>
     body {
       background-color: #4B0000; /* Blutrot */
-      color: #f0f0f0;
+      color: #000000;
       font-family: 'Segoe UI', sans-serif;
       margin: 0;
       padding: 20px;
