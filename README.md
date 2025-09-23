@@ -108,7 +108,7 @@
       <td>?? Geistgeborener</td>
       <td>xxx</td>
     </tr>
-  </table>
+  </table><a href="https://discord.com/channels/719438860278562886/1419990617873715220" target="_blank"><img src="https://github.com/jdornhecker-alt/gruben-champions/raw/main/einreichen.png" alt="Hier Run einreichen" height="100" width="100"></a>
 
   <p>?? <em>Letztes Update: 22.09.2025</em></p>
 
