@@ -1,12 +1,3 @@
-body {
-  background-color: #1e1e1e; /* dunkler Hintergrund */
-  background-image: url(<img width="1536" height="1024" alt="Copilot_20250814_022948" src="https://github.com/user-attachments/assets/c2fd4857-caa8-4afe-a926-6677c6cbd91a" />
-); /* Bild als Hintergrund */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
 <img width="1280" height="203" alt="BCO bb9ac62e-9e9d-40fe-a91f-07a30519494b-Photoroom" src="https://github.com/user-attachments/assets/2ebc57d3-32a0-4851-88c8-cd3951fcb557" />
 
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
