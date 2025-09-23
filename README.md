@@ -21,7 +21,7 @@
       border-collapse: collapse;
       margin-top: 20px;
       background-color: rgba(0, 0, 0, 0.6);
-      color: #fff;
+      color: #000;
     }
 
     th, td {
