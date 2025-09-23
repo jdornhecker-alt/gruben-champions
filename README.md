@@ -1,4 +1,5 @@
-<img width="1200" height="200" alt="BCO bb9ac62e-9e9d-40fe-a91f-07a30519494b" src="https://github.com/user-attachments/assets/1d15b799-ebc0-4c8c-a044-c037864f3e03" />
+
+<img width="1280" height="203" alt="BCO bb9ac62e-9e9d-40fe-a91f-07a30519494b-Photoroom" src="https://github.com/user-attachments/assets/2ebc57d3-32a0-4851-88c8-cd3951fcb557" />
 
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ## 🏆 Gruben-Champions – Saison 1
