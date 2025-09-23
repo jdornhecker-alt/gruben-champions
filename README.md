@@ -6,11 +6,14 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 |---------|-------------------|----------|-------------------|------------------|
 | 1.      | **POWERLOL2325**  | 125      | 🪓 Barbar          | WW + Shout       |
 | 2.      | DiabloFan87       | 122      | 🔥 Zauberin        | Firewall         |
+| 3.      | NecroKing         | 120      | 🐻 Druide          | Bone Spear       |
 | 3.      | NecroKing         | 120      | 💀 Totenbeschwörer | Bone Spear       |
+| 3.      | NecroKing         | 120      | 🗡️ Jäger           | Bone Spear       |
+
 
 📅 *Letztes Update: 22.09.2025*
 
----
+---  
 
 ## 📜 Regeln für die Rangliste
 - Nur **Solo-Runs** zählen
