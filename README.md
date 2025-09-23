@@ -7,9 +7,8 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 | 1.      | **POWERLOL2325**  | 125      | 🪓 Barbar          | WW + Shout       |
 | 2.      | xxxx              | xx       | 🔥 Zauberin        | xxx              |
 | 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx              |
-| 3.      | Nxxx              | xx       | 💀 Jäger           | xxx              |
-| 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx              |
-| 3.      | Nxxx              | xx       | 💀 Totenbeschwörer | xxx              |
+| 3.      | Nxxx              | xx       | 🪓 Jäger           | xxx              |
+| 3.      | Nxxx              | xx       | 🪓 Geistgeborener  | xxx              |
 
 📅 *Letztes Update: 22.09.2025*
 
