@@ -1,13 +1,13 @@
 body {
   background-color: #4B0000; /* dunkles Blutrot */
-  color: #f0f0f0; /* heller Text für guten Kontrast */
+  color: #f0f0f0;
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
 }
 
 .container {
-  background-color: rgba(0, 0, 0, 0.6); /* halbtransparentes Overlay für Lesbarkeit */
+  background-color: rgba(0, 0, 0, 0.6);
   padding: 20px;
   border-radius: 10px;
   max-width: 1200px;
