@@ -152,7 +152,8 @@
 
   <h3>Grube einreichen</h3>
   <p>Einreichen funktioniert über Discord. Und ein Screenshot muss hinzugefügt werden !!!</p>
-  <p><a href="https://discord.com/channels/719438860278562886/1419990617873715220" target="_blank">Hier klicken für das Einreich-Formular</a></p>
+  <p><a href="⁠Elite im Ruhestand - EiR⁠gruben-champion" target="_blank">
+        <img src="https://github.com/user-attachments/assets/tYKVfcTzxxJaZRmbE5954.jpeg" alt="Hier Run einreichen"></p>
 
   <h3>POWERLOL2325 sagt:</h3>
   <blockquote>
