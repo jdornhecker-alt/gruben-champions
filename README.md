@@ -121,7 +121,7 @@
 
   <h3>?? Grube einreichen</h3>
   <p>Einreichen funktioniert über Discord. Und ein Screenshot muss hinzugefügt werden !!!</p>
-  <p>?? <a href="https://discord.com/channels/719438860278562886/1419990617873715220" target="_blank"><img src="https://github.com/jdornhecker-alt/gruben-champions/blob/main/einreichen.png" alt="Hier Run einreichen"></a></p>
+  <p>?? <a href="https://discord.com/channels/719438860278562886/1419990617873715220" target="_blank"><img src="https://github.com/jdornhecker-alt/gruben-champions/raw/main/einreichen.png" alt="Hier Run einreichen"></a></p>
 
   <h3>?? POWERLOL2325 sagt:</h3>
   <blockquote>
