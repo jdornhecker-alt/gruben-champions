@@ -23,7 +23,7 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ---
 
 ## 📥 Grube einreichen
-👉 [Hier klicken für das Einreich-Formular]([https://deinlink.de](https://discord.com/channels/719438860278562886/1419990617873715220))  
+👉 [Hier klicken für das Einreich-Formular]([https://discord.com/channels/719438860278562886/1419990617873715220)  
 Run nur über Discord möglich
 
 ---
