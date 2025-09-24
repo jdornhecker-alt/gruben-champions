@@ -2,13 +2,13 @@
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ## 🏆 Gruben-Champions – Saison 1
 
-| 🥇 Platz | 👤 Spieler        | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
-|---------|-------------------|----------|-------------------|------------------|
-| 1.      | **POWERLOL2325**  | 125      | 🪓 Barbar          | WW + Shout       |
-| 2.      | DiabloFan87       | 122      | 🔥 Zauberin        | Firewall         |
-| 3.      | NecroKing         | 120      | 🐻 Druide          | Bone Spear       |
-| 3.      | NecroKing         | 120      | 💀 Totenbeschwörer | Bone Spear       |
-| 3.      | NecroKing         | 120      | 🗡️ Jäger           | Bone Spear       |
+| 🥇 Platz | 👤 Spieler      | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
+|---------|-------------------|----------|---------------------|------------------|
+| 1.      | Lions82           | 25       | 🔥 Zauberin        |                  |
+| 2.      |                   |          | 🔥 Zauberin        |                  |
+| 3.      |                   |          | 🐻 Druide          |                  |
+| 4.      |                   |          | 💀 Totenbeschwörer |                  |
+| 5.      |                   |          |  🗡️ Jäger          |                  |
 
 
 📅 *Letztes Update: 22.09.2025*
@@ -23,7 +23,7 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ---
 
 ## 📥 Grube einreichen
-👉 [Hier klicken für das Einreich-Formular](https://deinlink.de)  
+👉 [Hier klicken für das Einreich-Formular]([https://deinlink.de](https://discord.com/channels/719438860278562886/1419990617873715220))  
 Oder nutze im Chat: `!grube 125 Zauberin Firewall`
 
 ---
@@ -34,7 +34,6 @@ Oder nutze im Chat: `!grube 125 Zauberin Firewall`
 ---
 
 ## 🔗 Builds & Guides
-- [WW + Shout Build](https://d4builds.gg/barbar/ww-shout-meta)
-- [Firewall Build](https://d4builds.gg/sorceress/firewall)
-- [Bone Spear Build](https://d4builds.gg/necro/bone-spear)
+- [Diablo 4 Endgame Tier List by Rob2628]([https://d4builds.gg/barbar/ww-shout-meta](https://d4builds.gg/tierlist/))
+
 
