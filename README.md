@@ -2,13 +2,13 @@
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ## 🏆 Gruben-Champions – Saison 10
 
-| 🥇 Platz | 👤 Spieler      | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
-|---------|-------------------|----------|---------------------|------------------|
-| 1.      | Lions82           | 25       | 🔥 Zauberin        |                  |
-| 2.      |                   |          | 🔥 Zauberin        |                  |
-| 3.      |                   |          | 🐻 Druide          |                  |
-| 4.      |                   |          | 💀 Totenbeschwörer |                  |
-| 5.      |                   |          |  🗡️ Jäger          |                  |
+| 🥇 Platz | 👤 Spieler      | 🕳️ Grube | 🧙 Klasse          | Para  | ⚔️ Build     |
+|---------|-------------------|----------|---------------------|-------|--------------|
+| 1.      | Lions82           | 25       | 🔥 Zauberin        |  16   |              |
+| 2.      |                   |          | 🔥 Zauberin        |       |              |
+| 3.      |                   |          | 🐻 Druide          |       |              |
+| 4.      |                   |          | 💀 Totenbeschwörer |       |              |
+| 5.      |                   |          |  🗡️ Jäger          |       |              |
 
 
 📅 *Letztes Update: 22.09.2025*
