@@ -1,6 +1,6 @@
 # gruben-champions
 Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
-## 🏆 Gruben-Champions – Saison 1
+## 🏆 Gruben-Champions – Saison 10
 
 | 🥇 Platz | 👤 Spieler      | 🕳️ Grube | 🧙 Klasse         | ⚔️ Build         |
 |---------|-------------------|----------|---------------------|------------------|
