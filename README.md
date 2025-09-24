@@ -23,7 +23,8 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 ---
 
 ## 📥 Grube einreichen
-👉 [Hier klicken für das Einreich-Formular]([https://discord.com/channels/719438860278562886/1419990617873715220)  
+👉 [Hier klicken für das Einreichen des Runts.](https://discord.com/channels/719438860278562886/1419990617873715220)
+
 Run nur über Discord möglich
 
 ---
@@ -34,6 +35,7 @@ Run nur über Discord möglich
 ---
 
 ## 🔗 Builds & Guides
-- [Diablo 4 Endgame Tier List by Rob2628]([https://d4builds.gg/barbar/ww-shout-meta](https://d4builds.gg/tierlist/))
+- [Diablo 4 and game tierlist bei Rob 2628](https://d4builds.gg/tierlist/)
+
 
 
