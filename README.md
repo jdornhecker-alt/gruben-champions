@@ -4,7 +4,7 @@ Diablo 4 Gruben-Rangliste für POWERLOL2325 Community
 
 | 🥇 Platz | 👤 Spieler                     | 🕳️ Grube | 🧙 Klasse          | Skillung          | 
 |---------|----------------------------------|----------|---------------------|-------------------|
-| 1.      | Zaubärin / 196 / Powerlol#2325   | 60       | 🔥 Zauberin        | Ball Lightning     | 
+| 1.      | Zaubärin / 196 / Powerlol#2325   | 75       | 🔥 Zauberin        | Ball Lightning     | 
 | 2.      | Lions82                          | 25       | 🔥 Zauberin        |                    |       
 | 3.      |                                  |          | 🐻 Druide          |                    |
 | 4.      |                                  |          | 💀 Totenbeschwörer |                    |
